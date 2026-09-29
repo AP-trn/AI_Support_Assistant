@@ -1,0 +1,1195 @@
+{
+  "ORD-1001": {
+    "order_id": "ORD-1001",
+    "customer_id": "CUST-501",
+    "order_date": "2026-08-20",
+    "status": "Delivered",
+    "items": [
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Headset",
+        "price": 89.99
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-9901",
+      "status": "Delivered",
+      "estimated_delivery": "2026-08-24"
+    }
+  },
+  "ORD-1002": {
+    "order_id": "ORD-1002",
+    "customer_id": "CUST-502",
+    "order_date": "2026-08-30",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-MON-2",
+        "name": "Smart Monitor",
+        "price": 320.0
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-9902",
+      "status": "Label Created",
+      "estimated_delivery": "2026-09-05"
+    }
+  },
+  "132F1E724165A07F6362532BFB97486E": {
+    "order_id": "132F1E724165A07F6362532BFB97486E",
+    "customer_id": "B2191912D8AD6EAC2E4DC3B6E1459515",
+    "order_date": "2017-04-25",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-POWER-7",
+        "name": "Portable 20,000mAh Power Bank",
+        "price": 54.99
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-132F1E-7675",
+      "status": "Processing",
+      "estimated_delivery": "2017-05-22"
+    }
+  },
+  "A2E4C44360B4A57BDFF22F3A4630C173": {
+    "order_id": "A2E4C44360B4A57BDFF22F3A4630C173",
+    "customer_id": "8886130DB0EA6E9E70BA0B03D7C0D286",
+    "order_date": "2017-02-06",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-A2E4C4-5135",
+      "status": "Processing",
+      "estimated_delivery": "2017-03-01"
+    }
+  },
+  "DBE2D1C6C34F5C31BB6736E1720C9B7E": {
+    "order_id": "DBE2D1C6C34F5C31BB6736E1720C9B7E",
+    "customer_id": "3B5CB25012CE1400DBF62ED0995E1C14",
+    "order_date": "2018-08-28",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-DBE2D1-1573",
+      "status": "Cancelled",
+      "estimated_delivery": "2018-09-03"
+    }
+  },
+  "CAF12C43DEFCD1C679E73F2398192965": {
+    "order_id": "CAF12C43DEFCD1C679E73F2398192965",
+    "customer_id": "F23784C27D0CC3A0067680936968951A",
+    "order_date": "2018-07-02",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-POWER-7",
+        "name": "Portable 20,000mAh Power Bank",
+        "price": 54.99
+      },
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-CAF12C-8072",
+      "status": "Cancelled",
+      "estimated_delivery": "2018-07-27"
+    }
+  },
+  "90FF3CFFBAD0C03E76CDB32A788A649E": {
+    "order_id": "90FF3CFFBAD0C03E76CDB32A788A649E",
+    "customer_id": "404625763E1FB3D80A8F2B984A19B1EB",
+    "order_date": "2017-02-20",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-90FF3C-7748",
+      "status": "Cancelled",
+      "estimated_delivery": "2017-03-27"
+    }
+  },
+  "AF07804A2D53E8639954BAF97FBF803A": {
+    "order_id": "AF07804A2D53E8639954BAF97FBF803A",
+    "customer_id": "61A39D14E096F31B0D84C33BF54ACE42",
+    "order_date": "2018-04-19",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      },
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-AF0780-7596",
+      "status": "Cancelled",
+      "estimated_delivery": "2018-05-03"
+    }
+  },
+  "54EE4AC3AD09FAA2237F8A844B4D7B92": {
+    "order_id": "54EE4AC3AD09FAA2237F8A844B4D7B92",
+    "customer_id": "502DE0F9E9835AB231C2851ACD163376",
+    "order_date": "2018-08-16",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-54EE4A-8174",
+      "status": "Cancelled",
+      "estimated_delivery": "2018-08-24"
+    }
+  },
+  "AB76F54A321A0431EF243B3B6865078B": {
+    "order_id": "AB76F54A321A0431EF243B3B6865078B",
+    "customer_id": "F89DF6EF365783B667B626AEAFFC5E2D",
+    "order_date": "2018-02-04",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      },
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-AB76F5-2288",
+      "status": "Cancelled",
+      "estimated_delivery": "2018-02-21"
+    }
+  },
+  "1857E77A4BAD8ABB2DB929F107430663": {
+    "order_id": "1857E77A4BAD8ABB2DB929F107430663",
+    "customer_id": "616833EAEF04D25B67207119CD6936DC",
+    "order_date": "2017-08-31",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-POWER-7",
+        "name": "Portable 20,000mAh Power Bank",
+        "price": 54.99
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-1857E7-7798",
+      "status": "Cancelled",
+      "estimated_delivery": "2017-09-28"
+    }
+  },
+  "D1F4276166CEE5A37D01BEB15E2426FC": {
+    "order_id": "D1F4276166CEE5A37D01BEB15E2426FC",
+    "customer_id": "4EADCFFCA4CBD545EE337B830ACD0B6D",
+    "order_date": "2018-02-26",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-D1F427-5283",
+      "status": "Cancelled",
+      "estimated_delivery": "2018-03-12"
+    }
+  },
+  "DBA5062FBDA3AF4FB6C33B1E040CA38F": {
+    "order_id": "DBA5062FBDA3AF4FB6C33B1E040CA38F",
+    "customer_id": "964A6DF3D9BDF60FE3E7B8BB69ED893A",
+    "order_date": "2018-02-09",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-DBA506-1397",
+      "status": "Placed",
+      "estimated_delivery": "2018-03-07"
+    }
+  },
+  "90AB3E7D52544EC7BC3363C82689965F": {
+    "order_id": "90AB3E7D52544EC7BC3363C82689965F",
+    "customer_id": "7D61B9F4F216052BA664F22E9C504EF1",
+    "order_date": "2017-11-06",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-90AB3E-2248",
+      "status": "Placed",
+      "estimated_delivery": "2017-12-01"
+    }
+  },
+  "7A4DF5D8CFF4090E541401A20A22BB80": {
+    "order_id": "7A4DF5D8CFF4090E541401A20A22BB80",
+    "customer_id": "725E9C75605414B21FD8C8D5A1C2F1D6",
+    "order_date": "2017-11-25",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      },
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-7A4DF5-9410",
+      "status": "Placed",
+      "estimated_delivery": "2017-12-12"
+    }
+  },
+  "B5359909123FA03C50BDB0CFED07F098": {
+    "order_id": "B5359909123FA03C50BDB0CFED07F098",
+    "customer_id": "438449D4AF8980D107BF04571413A8E7",
+    "order_date": "2017-12-05",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-B53599-8293",
+      "status": "Placed",
+      "estimated_delivery": "2018-01-11"
+    }
+  },
+  "35DE4050331C6C644CDDC86F4F2D0D64": {
+    "order_id": "35DE4050331C6C644CDDC86F4F2D0D64",
+    "customer_id": "4EE64F4BFC542546F422DA0AEB462853",
+    "order_date": "2017-12-05",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-POWER-7",
+        "name": "Portable 20,000mAh Power Bank",
+        "price": 54.99
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-35DE40-8157",
+      "status": "Placed",
+      "estimated_delivery": "2018-01-08"
+    }
+  },
+  "C58CFF333993BB6B7161D7EC1350EEF3": {
+    "order_id": "C58CFF333993BB6B7161D7EC1350EEF3",
+    "customer_id": "36298473367CF09C2706B2372508079C",
+    "order_date": "2018-03-27",
+    "status": "Delivered",
+    "items": [
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-C58CFF-6421",
+      "status": "Delivered",
+      "estimated_delivery": "2018-04-18"
+    }
+  },
+  "92578AD781AEA777F9022BDB6319E4F3": {
+    "order_id": "92578AD781AEA777F9022BDB6319E4F3",
+    "customer_id": "E372E544ED515524E099E4F543D9AEB3",
+    "order_date": "2018-05-12",
+    "status": "Delivered",
+    "items": [
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      },
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-92578A-2563",
+      "status": "Delivered",
+      "estimated_delivery": "2018-05-28"
+    }
+  },
+  "80B430D0029BB33110AC31D60E87E0B8": {
+    "order_id": "80B430D0029BB33110AC31D60E87E0B8",
+    "customer_id": "F29399E2BA4959552FE86D37C46BB8EA",
+    "order_date": "2017-11-30",
+    "status": "Delivered",
+    "items": [
+      {
+        "sku": "SKU-POWER-7",
+        "name": "Portable 20,000mAh Power Bank",
+        "price": 54.99
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-80B430-9412",
+      "status": "Delivered",
+      "estimated_delivery": "2017-12-27"
+    }
+  },
+  "580603672A21252F21FA8A8B4CA85986": {
+    "order_id": "580603672A21252F21FA8A8B4CA85986",
+    "customer_id": "C742AC1FD3F3B453EA59C439D6DC4E39",
+    "order_date": "2018-04-19",
+    "status": "Delivered",
+    "items": [
+      {
+        "sku": "SKU-POWER-7",
+        "name": "Portable 20,000mAh Power Bank",
+        "price": 54.99
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-580603-6630",
+      "status": "Delivered",
+      "estimated_delivery": "2018-05-08"
+    }
+  },
+  "C09F32E7BA9B4A134455B36EEFF8FFF3": {
+    "order_id": "C09F32E7BA9B4A134455B36EEFF8FFF3",
+    "customer_id": "9A8E127EE3D61981F8BEEA052BB5DC54",
+    "order_date": "2018-03-30",
+    "status": "Delivered",
+    "items": [
+      {
+        "sku": "SKU-KEY-3",
+        "name": "Mechanical RGB Gaming Keyboard",
+        "price": 115.5
+      },
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-C09F32-7481",
+      "status": "Delivered",
+      "estimated_delivery": "2018-04-24"
+    }
+  },
+  "462240CB1EC4E5DB517E73FFF57EBFC0": {
+    "order_id": "462240CB1EC4E5DB517E73FFF57EBFC0",
+    "customer_id": "143FDAAF1A8B9E8905183EE2714D3647",
+    "order_date": "2017-11-27",
+    "status": "Delivered",
+    "items": [
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      },
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-462240-8464",
+      "status": "Delivered",
+      "estimated_delivery": "2017-12-20"
+    }
+  },
+  "1ADE03EB2F7F3A76F964EE98E1A66529": {
+    "order_id": "1ADE03EB2F7F3A76F964EE98E1A66529",
+    "customer_id": "B15DFEDDB91C576C21CA1456D3A12F68",
+    "order_date": "2017-05-23",
+    "status": "Delivered",
+    "items": [
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-1ADE03-8935",
+      "status": "Delivered",
+      "estimated_delivery": "2017-06-14"
+    }
+  },
+  "C9E3CE22E44E7FCDB3BBD8ACFF17C3A6": {
+    "order_id": "C9E3CE22E44E7FCDB3BBD8ACFF17C3A6",
+    "customer_id": "65965AC87A95C1B1E9EB297063E36225",
+    "order_date": "2018-03-10",
+    "status": "Delivered",
+    "items": [
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-C9E3CE-6570",
+      "status": "Delivered",
+      "estimated_delivery": "2018-04-02"
+    }
+  },
+  "6093172628144FC06EE4548601A91C65": {
+    "order_id": "6093172628144FC06EE4548601A91C65",
+    "customer_id": "E7C7F5BCCD9E0656EDB0D14537773B8A",
+    "order_date": "2017-09-10",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      },
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-609317-4330",
+      "status": "Placed",
+      "estimated_delivery": "2017-10-09"
+    }
+  },
+  "571397819BD6B9FB6C481779D2159854": {
+    "order_id": "571397819BD6B9FB6C481779D2159854",
+    "customer_id": "C99B24CB5CE51490CAC3A1FF21D153BC",
+    "order_date": "2018-04-02",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-571397-9866",
+      "status": "Placed",
+      "estimated_delivery": "2018-04-18"
+    }
+  },
+  "1B88975E652B474825E1D68839F836BE": {
+    "order_id": "1B88975E652B474825E1D68839F836BE",
+    "customer_id": "3F27A4FD3D61F939A07A45A389C6D0C7",
+    "order_date": "2018-04-05",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      },
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-1B8897-6142",
+      "status": "Placed",
+      "estimated_delivery": "2018-04-17"
+    }
+  },
+  "174118FA0E1DC8D43EAEA511A68402E0": {
+    "order_id": "174118FA0E1DC8D43EAEA511A68402E0",
+    "customer_id": "F212ED32824070DC30651F0BBBA90B9B",
+    "order_date": "2017-10-25",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-KEY-3",
+        "name": "Mechanical RGB Gaming Keyboard",
+        "price": 115.5
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-174118-1490",
+      "status": "Placed",
+      "estimated_delivery": "2017-11-07"
+    }
+  },
+  "2DA6DF6ECC3F69F3642CE1FAFAD85D5A": {
+    "order_id": "2DA6DF6ECC3F69F3642CE1FAFAD85D5A",
+    "customer_id": "D04B499809157673780ADDF5719F7AF1",
+    "order_date": "2018-08-07",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      },
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-2DA6DF-6589",
+      "status": "Placed",
+      "estimated_delivery": "2018-08-15"
+    }
+  },
+  "3C37C0F0E8A0E6D94C555141221DDC1D": {
+    "order_id": "3C37C0F0E8A0E6D94C555141221DDC1D",
+    "customer_id": "166A0D1044FDCAF47697B34F13079170",
+    "order_date": "2017-08-30",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-3C37C0-6898",
+      "status": "Placed",
+      "estimated_delivery": "2017-09-20"
+    }
+  },
+  "E63F16FAB229756CE58F86D40747944E": {
+    "order_id": "E63F16FAB229756CE58F86D40747944E",
+    "customer_id": "0C8FCA0EBF003CE1352D04675DA28D70",
+    "order_date": "2017-12-11",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-E63F16-3786",
+      "status": "Placed",
+      "estimated_delivery": "2018-01-12"
+    }
+  },
+  "6A828279D73F18174DD3B9C653D5213D": {
+    "order_id": "6A828279D73F18174DD3B9C653D5213D",
+    "customer_id": "C994647AAE9A45B8AE6EB75B77354ED3",
+    "order_date": "2017-06-25",
+    "status": "Placed",
+    "items": [
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-6A8282-7266",
+      "status": "Placed",
+      "estimated_delivery": "2017-07-14"
+    }
+  },
+  "FC8A4FCBC1B484046B9FF15DE7C73577": {
+    "order_id": "FC8A4FCBC1B484046B9FF15DE7C73577",
+    "customer_id": "48CE8CDEB8BB76E0593B9FCDCE0B453E",
+    "order_date": "2017-05-19",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-FC8A4F-8377",
+      "status": "Processing",
+      "estimated_delivery": "2017-07-07"
+    }
+  },
+  "1E87DCA4D39AE9A59772ECE01D399508": {
+    "order_id": "1E87DCA4D39AE9A59772ECE01D399508",
+    "customer_id": "2BEF2CF57664BED5E4AF09E848611161",
+    "order_date": "2017-11-25",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      },
+      {
+        "sku": "SKU-KEY-3",
+        "name": "Mechanical RGB Gaming Keyboard",
+        "price": 115.5
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-1E87DC-3511",
+      "status": "Processing",
+      "estimated_delivery": "2017-12-15"
+    }
+  },
+  "E3EC006CA1C696A42B47B941983AA2CC": {
+    "order_id": "E3EC006CA1C696A42B47B941983AA2CC",
+    "customer_id": "91264CE6D0C952046DD16DD9A221622A",
+    "order_date": "2017-02-25",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-E3EC00-4020",
+      "status": "Processing",
+      "estimated_delivery": "2017-04-26"
+    }
+  },
+  "90207C312F193FBD229671833BF08D47": {
+    "order_id": "90207C312F193FBD229671833BF08D47",
+    "customer_id": "F66491AB775D85D3A33E23DFEE765C38",
+    "order_date": "2017-02-01",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      },
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-90207C-9636",
+      "status": "Processing",
+      "estimated_delivery": "2017-04-07"
+    }
+  },
+  "E3E2CA5AFEB7F8DC5E95B1633D8CD6B1": {
+    "order_id": "E3E2CA5AFEB7F8DC5E95B1633D8CD6B1",
+    "customer_id": "0739E05C71A6246747CDDC1AF25FCCE8",
+    "order_date": "2018-01-14",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-KEY-3",
+        "name": "Mechanical RGB Gaming Keyboard",
+        "price": 115.5
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-E3E2CA-1541",
+      "status": "Processing",
+      "estimated_delivery": "2018-02-05"
+    }
+  },
+  "533E104C4193CF07D264603F7800FB71": {
+    "order_id": "533E104C4193CF07D264603F7800FB71",
+    "customer_id": "2F95FC8F86679D432D77E9D0316FAC48",
+    "order_date": "2017-02-06",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      },
+      {
+        "sku": "SKU-POWER-7",
+        "name": "Portable 20,000mAh Power Bank",
+        "price": 54.99
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-533E10-9932",
+      "status": "Processing",
+      "estimated_delivery": "2017-03-03"
+    }
+  },
+  "A70705507F1747C0201350ACAD9D1408": {
+    "order_id": "A70705507F1747C0201350ACAD9D1408",
+    "customer_id": "FDF40EFFEA31C11E4955889228003FAA",
+    "order_date": "2017-12-15",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-A70705-7319",
+      "status": "Processing",
+      "estimated_delivery": "2018-01-04"
+    }
+  },
+  "8B24B76CB8CADB97C498A77B53FA3BB6": {
+    "order_id": "8B24B76CB8CADB97C498A77B53FA3BB6",
+    "customer_id": "0A3FC5D5DA7F44DF671FD0C914381077",
+    "order_date": "2017-11-24",
+    "status": "Processing",
+    "items": [
+      {
+        "sku": "SKU-KEY-3",
+        "name": "Mechanical RGB Gaming Keyboard",
+        "price": 115.5
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-8B24B7-1547",
+      "status": "Processing",
+      "estimated_delivery": "2017-12-15"
+    }
+  },
+  "47B3FC542306133E109F00371870C632": {
+    "order_id": "47B3FC542306133E109F00371870C632",
+    "customer_id": "9FD235083BCA5BB7BF8A91D444446CC1",
+    "order_date": "2017-07-12",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU-KEY-3",
+        "name": "Mechanical RGB Gaming Keyboard",
+        "price": 115.5
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-47B3FC-1862",
+      "status": "Shipped",
+      "estimated_delivery": "2017-08-01"
+    }
+  },
+  "657B8DBC222AC9B5B61EAB078C16B3C2": {
+    "order_id": "657B8DBC222AC9B5B61EAB078C16B3C2",
+    "customer_id": "95AD9C9815171D2F4BC4A6267BD8B05B",
+    "order_date": "2017-07-13",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      }
+    ],
+    "shipment": {
+      "carrier": "Correios",
+      "tracking_no": "TRK-657B8D-5193",
+      "status": "Shipped",
+      "estimated_delivery": "2017-08-04"
+    }
+  },
+  "D7883C9F072902EBA8F3B8AF350976BB": {
+    "order_id": "D7883C9F072902EBA8F3B8AF350976BB",
+    "customer_id": "53ACD19D26C67A3842218B6CD931196F",
+    "order_date": "2018-02-28",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      },
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-D7883C-3393",
+      "status": "Shipped",
+      "estimated_delivery": "2018-03-20"
+    }
+  },
+  "CE2D26887805BD860B4ED0368E29AE95": {
+    "order_id": "CE2D26887805BD860B4ED0368E29AE95",
+    "customer_id": "7FF5F98578A06497FBC4570758E05EB1",
+    "order_date": "2017-07-23",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      },
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-CE2D26-9455",
+      "status": "Shipped",
+      "estimated_delivery": "2017-08-17"
+    }
+  },
+  "6649EBEC1C6F3E185A64238DC8729D72": {
+    "order_id": "6649EBEC1C6F3E185A64238DC8729D72",
+    "customer_id": "4AB8E8BC6BF0760C297E13DCAB1E034E",
+    "order_date": "2018-02-21",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      },
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-6649EB-1744",
+      "status": "Shipped",
+      "estimated_delivery": "2018-03-19"
+    }
+  },
+  "B1C978CD633CAAC1CE86E36B61E8AEB3": {
+    "order_id": "B1C978CD633CAAC1CE86E36B61E8AEB3",
+    "customer_id": "A0B4C2BC4AD1865C4943B8BDBEE449AF",
+    "order_date": "2018-08-15",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-B1C978-4988",
+      "status": "Shipped",
+      "estimated_delivery": "2018-09-06"
+    }
+  },
+  "4703FEF754DDF8ADDBED5B7935E2F868": {
+    "order_id": "4703FEF754DDF8ADDBED5B7935E2F868",
+    "customer_id": "0A30E5974EB5B071A0B36CFE55704138",
+    "order_date": "2017-04-27",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU-KEY-3",
+        "name": "Mechanical RGB Gaming Keyboard",
+        "price": 115.5
+      },
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-4703FE-3943",
+      "status": "Shipped",
+      "estimated_delivery": "2017-05-29"
+    }
+  },
+  "57A71DC8E0DF243B9C6C26FFB4CDAEA4": {
+    "order_id": "57A71DC8E0DF243B9C6C26FFB4CDAEA4",
+    "customer_id": "A4E27DBD112A5A68A254876B90B4D5D9",
+    "order_date": "2017-11-19",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU-MOUSE-6",
+        "name": "Wireless Precision Ergonomic Mouse",
+        "price": 45.0
+      },
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-57A71D-3260",
+      "status": "Shipped",
+      "estimated_delivery": "2017-12-19"
+    }
+  },
+  "974F9F87A3BAD01B2AC72FE987505E9B": {
+    "order_id": "974F9F87A3BAD01B2AC72FE987505E9B",
+    "customer_id": "B8BD03CDD075B29C82A9C55E5CD8E224",
+    "order_date": "2017-06-09",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-KEY-3",
+        "name": "Mechanical RGB Gaming Keyboard",
+        "price": 115.5
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-974F9F-5660",
+      "status": "Cancelled",
+      "estimated_delivery": "2017-08-01"
+    }
+  },
+  "FDDBD183387B5C9BCBAFBD0FE965301F": {
+    "order_id": "FDDBD183387B5C9BCBAFBD0FE965301F",
+    "customer_id": "BADE46D49478A63C01DCA6A9AE49DFA9",
+    "order_date": "2017-09-23",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-KEY-3",
+        "name": "Mechanical RGB Gaming Keyboard",
+        "price": 115.5
+      }
+    ],
+    "shipment": {
+      "carrier": "UPS",
+      "tracking_no": "TRK-FDDBD1-3735",
+      "status": "Cancelled",
+      "estimated_delivery": "2017-10-18"
+    }
+  },
+  "1E4DC51447FAA970879BB120932EEBB6": {
+    "order_id": "1E4DC51447FAA970879BB120932EEBB6",
+    "customer_id": "62713A902FD08C5EF31F5F108E95A168",
+    "order_date": "2018-01-22",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-1E4DC5-3256",
+      "status": "Cancelled",
+      "estimated_delivery": "2018-02-14"
+    }
+  },
+  "97CF031E8C5BF37A0B310C07800E323A": {
+    "order_id": "97CF031E8C5BF37A0B310C07800E323A",
+    "customer_id": "2BDD94BC59D052D2770BACD6D20D6A9B",
+    "order_date": "2017-09-10",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-CHAIR-5",
+        "name": "Ergonomic Office Swivel Chair",
+        "price": 229.0
+      },
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-97CF03-3324",
+      "status": "Cancelled",
+      "estimated_delivery": "2017-09-21"
+    }
+  },
+  "940018724D5C0C1847F642DC1D8D0EA2": {
+    "order_id": "940018724D5C0C1847F642DC1D8D0EA2",
+    "customer_id": "F0C28FC86C8F71812A74EA225C8FDA1C",
+    "order_date": "2018-04-19",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-POWER-7",
+        "name": "Portable 20,000mAh Power Bank",
+        "price": 54.99
+      },
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-940018-8733",
+      "status": "Cancelled",
+      "estimated_delivery": "2018-04-27"
+    }
+  },
+  "CCAC33950FFC27CB905DBCDFB099494A": {
+    "order_id": "CCAC33950FFC27CB905DBCDFB099494A",
+    "customer_id": "001574CD5824C0B1EA90DD4F4BA6D5B8",
+    "order_date": "2017-11-26",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-KEY-3",
+        "name": "Mechanical RGB Gaming Keyboard",
+        "price": 115.5
+      },
+      {
+        "sku": "SKU-MON-2",
+        "name": "27-inch 4K UHD Smart Monitor",
+        "price": 310.0
+      }
+    ],
+    "shipment": {
+      "carrier": "FedEx",
+      "tracking_no": "TRK-CCAC33-2873",
+      "status": "Cancelled",
+      "estimated_delivery": "2017-12-19"
+    }
+  },
+  "294B367987F073EB316ECEF17F1078A0": {
+    "order_id": "294B367987F073EB316ECEF17F1078A0",
+    "customer_id": "B2FAEB7F4E8636D79E2059983C5E6CD0",
+    "order_date": "2017-09-22",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-CABLE-4",
+        "name": "High-Speed Braided USB-C Cable",
+        "price": 19.99
+      },
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-294B36-2290",
+      "status": "Cancelled",
+      "estimated_delivery": "2017-10-19"
+    }
+  },
+  "736DCA37C6D52D16556556BDD7D208FF": {
+    "order_id": "736DCA37C6D52D16556556BDD7D208FF",
+    "customer_id": "CBB02F3BC8481F06CACB94DCDE253AF5",
+    "order_date": "2017-12-04",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU-AUDIO-1",
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 89.99
+      }
+    ],
+    "shipment": {
+      "carrier": "DHL",
+      "tracking_no": "TRK-736DCA-8269",
+      "status": "Cancelled",
+      "estimated_delivery": "2017-12-20"
+    }
+  }
+}

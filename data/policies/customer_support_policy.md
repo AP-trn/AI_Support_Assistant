@@ -1,0 +1,2 @@
+# Customer Support Policy
+Our customer support is available 24/7. If our automated assistant cannot resolve your issue, a support ticket will be generated with a unique reference ID. Please note that high-value transactions, require supervisor review before approval.

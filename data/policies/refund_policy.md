@@ -1,0 +1,2 @@
+# Refund Policy
+Refunds will be credited to the original payment method within 5 to 7 business days following receipt and inspection of the returned merchandise at our fulfillment facility. Shipping and handling charges are strictly non-refundable, except in instances involving manufacturer defects or fulfillment errors attributed to us.

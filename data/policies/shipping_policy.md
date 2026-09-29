@@ -1,0 +1,2 @@
+# Shipping Policy
+Standard shipping takes 3–5 business days, while Express shipping arrives in 1–2 business days. You will receive a tracking link via email within 24 hours of fulfillment. If your tracking status does not update for more than 5 consecutive days, please contact our support team.
