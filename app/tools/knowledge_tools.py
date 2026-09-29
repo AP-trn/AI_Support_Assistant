@@ -9,3 +9,4 @@ def knowledge_base_search(query: str) -> str:
     if not docs:
         return "No relevant policy documents found."
     return "\n\n".join([f"[Source: {d.metadata.get('source', 'Unknown')}]: {d.page_content}" for d in docs])
+    

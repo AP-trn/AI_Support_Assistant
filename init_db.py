@@ -12,7 +12,6 @@ if db.query(Order).count() == 0:
     db.add_all([cust1, cust2])
     db.commit()
 
-
     ord1 = Order(order_id="ORD-1001", customer_id="CUST-501", order_date="2026-08-20", status="Delivered")
     item1 = OrderItem(id=uuid.uuid4().hex, order_id="ORD-1001", sku="SKU-AUDIO-1", name="Wireless Headset", price=89.99)
     ship1 = Shipment(tracking_num="TRK-9901", order_id="ORD-1001", carrier="FedEx", status="Delivered", estimated_delivery="2026-08-24")

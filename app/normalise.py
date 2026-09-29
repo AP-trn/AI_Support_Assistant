@@ -91,7 +91,6 @@ for _, row in sample_orders.iterrows():
     num_items = 1 if (seed_val % 3 != 0) else 2
     selected_items = rnd.sample(product_catalog, num_items)
 
-    
     carrier = carriers[seed_val % len(carriers)]
     tracking_code = f"TRK-{raw_id[:6]}-{rnd.randint(1000, 9999)}"
     

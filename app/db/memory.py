@@ -5,6 +5,7 @@ def get_past_order_conversations(order_id: str, current_thread_id: str, limit: i
     """Fetch previous chat messages discussing this order from other threads."""
     if not order_id:
         return ""
+
     
     db = SessionLocal()
     try:

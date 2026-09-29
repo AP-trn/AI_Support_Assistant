@@ -34,6 +34,7 @@ def support_ticket_creation(customer_id: str, issue_type: str, details: str, ord
         "message": f"Escalation ticket {ticket_id} created and assigned to the human support queue."
     })
 
+
 @tool
 def ticket_lookup(ticket_id: str) -> str:
     """Retrieve status, issue type, details, and order reference for an existing support ticket."""

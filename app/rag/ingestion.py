@@ -77,3 +77,4 @@ def build_azure_search_index(policy_dir: str = settings.policies_dir):
 
 if __name__ == "__main__":
     build_azure_search_index()
+    

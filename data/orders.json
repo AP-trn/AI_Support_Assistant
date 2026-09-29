@@ -28,7 +28,7 @@
         "sku": "SKU-MON-2",
         "name": "Smart Monitor",
         "price": 320.0
-      }
+      } 
     ],
     "shipment": {
       "carrier": "UPS",

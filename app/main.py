@@ -81,7 +81,7 @@ async def chat_endpoint(req: ChatRequest):
         db.commit()
     finally:
         db.close()
-        
+
     tools_used = [
         tc["name"] for msg in result.get("messages", [])
         if hasattr(msg, "tool_calls") and msg.tool_calls
@@ -113,6 +113,7 @@ async def chat_endpoint(req: ChatRequest):
         ticket_id=extracted_ticket_id,
         pending_approval=is_pending
     )
+
 
 @app.post("/approve", response_model=ApproveResponse)
 async def approve_endpoint(req: ApproveRequest):

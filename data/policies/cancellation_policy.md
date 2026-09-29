@@ -1,2 +1,2 @@
 # Cancellation Policy
-Orders can only be cancelled while in Pending or Processing status. Once an order is marked as Shipped or Out for Delivery, it can no longer be cancelled. Once delivered, you may initiate a return request instead.
+Orders can only be cancelled while in Pending or Processing status. Once an order is marked as Shipped or Out for Delivery, it can no longer be cancelled. Once delivered, you may initiate a return request instead. 

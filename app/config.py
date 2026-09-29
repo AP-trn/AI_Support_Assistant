@@ -37,7 +37,6 @@ class Settings(BaseSettings):
         "ecommerce-policies-index", 
         validation_alias=AliasChoices("AZURE_SEARCH_INDEX_NAME", "AZURE_AI_SEARCH_INDEX_NAME")
     )
-
     
     azure_document_intelligence_endpoint: str = Field(
         ..., 

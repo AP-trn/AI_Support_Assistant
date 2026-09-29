@@ -51,6 +51,7 @@ def react_agent_node(state: AgentState) -> dict:
     response = invoke_react_agent(state["messages"], context)
     return {"messages": [response]}
 
+
 def tool_execution_node(state: AgentState) -> dict:
     tool_map = {t.name: t for t in ALL_TOOLS}
     last_message = state["messages"][-1]

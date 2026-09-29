@@ -63,7 +63,6 @@ with st.sidebar:
 st.title("Intelligent Support Agent")
 st.caption("AI Support powered by Azure OpenAI, LangGraph, and RAG")
 
-
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])

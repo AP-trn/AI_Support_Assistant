@@ -42,3 +42,4 @@ def cancellation_eligibility(order_id: str) -> str:
         "current_status": order.status,
         "message": "Order is eligible for cancellation." if can_cancel else f"Cannot cancel order in status '{order.status}'. Return after delivery if required."
     })
+    

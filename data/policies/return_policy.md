@@ -1,2 +1,2 @@
 # Return Policy
-Eligible items can be returned within 30 days of delivery. To qualify, products must be unused, unwashed, and in their original packaging with all tags attached. Electronics must include all original cords, manuals, and accessories. Please note that clearance and final sale items cannot be returned.
+Eligible items can be returned within 30 days of delivery. To qualify, products must be unused, unwashed, and in their original packaging with all tags attached. Electronics must include all original cords, manuals, and accessories. Please note that clearance and final sale items cannot be returned. 

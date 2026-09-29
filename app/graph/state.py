@@ -15,3 +15,4 @@ class AgentState(TypedDict):
     requires_escalation: bool
     ticket_id: Optional[str]
     approval_status: Optional[str]  
+    

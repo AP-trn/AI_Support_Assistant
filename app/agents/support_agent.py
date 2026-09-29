@@ -14,6 +14,7 @@ def get_support_llm():
         max_retries=2
     )
 
+
 def invoke_react_agent(messages: list, context_info: dict):
     llm = get_support_llm().bind_tools(ALL_TOOLS)
     prior_notes = context_info.get("prior_order_notes", "")

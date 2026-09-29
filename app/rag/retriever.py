@@ -18,3 +18,4 @@ def get_azure_retriever():
     )
     
     return vector_store.as_retriever(k=settings.search_k)
+    

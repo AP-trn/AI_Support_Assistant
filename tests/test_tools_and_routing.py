@@ -42,6 +42,7 @@ def test_graph_routing_flow():
         "requires_escalation": False,
         "retrieved_data": {}
     }
+
     
     result = graph_app.invoke(initial_state, config=config)
     assert result["intent"] is not None
